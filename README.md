@@ -3,6 +3,7 @@
 This Streamlit application allows you to interact with a chatbot that can search the web using the LangChain library and the Groq API. The chatbot can utilize various tools such as Arxiv, Wikipedia, and DuckDuckGo for searching and providing information.
 
 ## Screenshot
+![Screenshot](https://github.com/aadhil96/LangChain-Chat-with-Search/blob/a624e5eaced9788770628b696d7eabfef3291491/screenshot.JPG)
 
 ## Features
 
